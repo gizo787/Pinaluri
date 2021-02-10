@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960382276390",
+    "project_id": "pinaluri-gamocda-aa8d9",
+    "storage_bucket": "pinaluri-gamocda-aa8d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960382276390:android:9f61af3af475a1c6e2a7e7",
+        "android_client_info": {
+          "package_name": "com.example.pinaluri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960382276390-jkufaiqjk4e5nn72k826r6t4di5pi5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGNcMfoEiups0KCV7tEANRXImpne28ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960382276390-jkufaiqjk4e5nn72k826r6t4di5pi5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
